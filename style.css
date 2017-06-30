@@ -26,7 +26,6 @@ li a:hover {
 
 p {
     font-family: "Comic Sans MS", cursive, sans-serif;
-    text-align: left;
 }
 
 h1 {
@@ -35,8 +34,4 @@ h1 {
 
 h2 {
     font-family: "Papyrus", fantasy;
-}
-
-img {
-    float: right;
 }
