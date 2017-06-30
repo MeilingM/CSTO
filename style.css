@@ -2,19 +2,23 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 200px;
-    background-color: #be93ff;
+    overflow: hidden;
+    background-color: #cb99fc;
 }
 
 li {
+    float: left;
+}
+
+li a {
     display: block;
-    color: #000;
-    padding: 8px 16px;
+    color: b366ff;
+    text-align: center;
+    padding: 14px 16px;
     text-decoration: none;
 }
 
-/* Change the link color on hover */
-li:hover {
-    background-color: #555;
-    color: white;
+/* Change the link color to #debcff (purrpurr) on hover */
+li a:hover {
+    background-color: #debcff;
 }
