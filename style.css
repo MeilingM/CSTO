@@ -16,6 +16,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    font-family
 }
 
 /* Change the link color to #debcff (purrpurr) on hover */
@@ -30,3 +31,8 @@ p {
 h1 {
     font-family: "Trebuchet MS", cursive, sans-serif;
 }
+
+h2 {
+    font-family: "Papyrus", fantasy;
+}
+    
