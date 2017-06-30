@@ -35,4 +35,7 @@ h1 {
 h2 {
     font-family: "Papyrus", fantasy;
 }
-    
+  
+#paragraphs {
+    float: left;
+}
