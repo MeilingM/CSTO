@@ -27,15 +27,18 @@ li a:hover {
 p {
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-size: 14pt;
+    text-align: center;
 }
 
 h1 {
     font-family: "Trebuchet MS", cursive, sans-serif;
+    text-align: center;
 }
 
 h2 {
     font-family: "Papyrus", fantasy;
-    font-size: 16pt
+    font-size: 16pt;
+    text-align: center;
 }
 
   
@@ -46,4 +49,5 @@ img {
   border-width: 4px;
   border-style: dotted;
   border-radius: 70px;
+  align: center;
 }
