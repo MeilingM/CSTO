@@ -56,12 +56,10 @@ img {
   margin-right: auto;
 }
 
-.laziness {
+#images {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 1000;
-  height: 500;
 }
 
 .credit {
