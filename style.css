@@ -61,11 +61,3 @@ img {
     font-size: 10pt;
     text-align: center;
 }
-
-table {
-    border-collapse: collapse;
-}
-
-table, th, td {
-    border: 1px solid black;
-}
