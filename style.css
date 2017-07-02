@@ -65,7 +65,6 @@ img {
 table, th, td {
     border: 1px solid;
     border-collapse: collapse;
-    border-color: cb99fc;
     
 }
 
@@ -74,6 +73,7 @@ table, th, td {
     margin-right:auto;
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-size: 14pt;
+    border-color: cb99fc;
   }
 
 body { 
