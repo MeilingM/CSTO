@@ -63,8 +63,11 @@ img {
 }
 
 table, th, td {
-    border: 1px solid black;
+    border: 1px solid cb99fc;
     border-collapse: collapse;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 14pt;
+    
 }
 
 .table {
