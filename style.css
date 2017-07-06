@@ -12,15 +12,15 @@ li {
 
 li a {
     display: block;
-    color: #ac6dff;
+    color: #d6b7ff;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
 }
 
-/* Change the link color to #debcff (purrpurr) on hover */
+/* Change the link color to #bd8cff (purrpurr) on hover */
 li a:hover {
-    background-color: #debcff;
+    background-color: #bd8cff;
 }
 
 .p {
