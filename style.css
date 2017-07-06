@@ -21,6 +21,7 @@ li a {
 /* Change the link color to #bd8cff (purrpurr) on hover */
 li a:hover {
     background-color: #bd8cff;
+    color: #8942f4;
 }
 
 .p {
