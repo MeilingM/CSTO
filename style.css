@@ -88,7 +88,10 @@ a {
     text-decoration: none;
 }
 
-.normal {
+ul.normal {
     list-style-type: bullet;
+    background-color: none;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    
 }
     
