@@ -26,8 +26,8 @@ li.nav {
 
 li.normal {
     display: inline;
-    text-align: center;
-    list-style-type: none;
+    text-align: left;
+    list-style-type: bullet;
 }
 
 .pg {
@@ -97,11 +97,11 @@ a {
 }
 
 ul.normal {
-    list-style-type: none;
+    list-style-type: bullet;
     background-color: none;
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-size: 14pt;
-    text-align: center;
+    text-align: left;
     display: block;
     clear: both;
     list-style-position: outside;
