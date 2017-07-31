@@ -6,8 +6,8 @@ ul.nav {
     background-color: #8942f4;
 }
 
-li.nav {
-    float: left;
+li.normal {
+    text-align: center;
 }
 
 li a {
