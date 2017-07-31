@@ -99,6 +99,9 @@ ul.normal {
     display: block;
     clear: both;
     list-style-position: outside;
+    border-style: solid;
+    border-color: black;
+    border-width: 4px;
     
 }
 /*li {
