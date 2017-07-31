@@ -98,6 +98,7 @@ ul.normal {
     text-align: center;
     display: block;
     clear: both;
+    list-style-position: outside;
     
 }
     
