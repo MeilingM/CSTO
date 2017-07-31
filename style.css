@@ -101,7 +101,7 @@ ul.normal {
     list-style-position: outside;
     
 }
-li {
+/*li {
     float: left;
 }
 
@@ -143,4 +143,4 @@ li.dropdown {
 
 .dropdown:hover .dropdown-content {
     display: block;
-}
+}*/
