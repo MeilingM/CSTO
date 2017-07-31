@@ -114,8 +114,8 @@ li a, .dropbtn {
 }
 
 li a:hover, .dropdown:hover .dropbtn {
-    background-color: #ac6dff;
-  color: #d6b7ff;
+    background-color: #d6b7ff;
+  color: #ac6dff;
 }
 
 li.dropdown {
@@ -125,7 +125,7 @@ li.dropdown {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #d6b7ff;
+    background-color: #ac6dff;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
