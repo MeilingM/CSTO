@@ -101,6 +101,10 @@ ul.normal {
     list-style-position: outside;
     
 }
+li {
+    float: left;
+}
+
 li a, .dropbtn {
     display: inline-block;
     color: black;
