@@ -27,7 +27,7 @@ li.nav {
 li.normal {
     display: inline;
     text-align: center;
-    list-style-type: bullet;
+    list-style-type: none;
 }
 
 .pg {
