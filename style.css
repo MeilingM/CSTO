@@ -6,10 +6,6 @@ ul.nav {
     background-color: #8942f4;
 }
 
-li.normal {
-    text-align: center;
-}
-
 li a {
     display: block;
     color: #d6b7ff;
