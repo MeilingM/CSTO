@@ -97,7 +97,7 @@ a {
 }
 
 ul.normal {
-    list-style-type: bullet;
+    list-style-type: none;
     background-color: none;
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-size: 14pt;
