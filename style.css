@@ -6,7 +6,7 @@ ul.nav {
     background-color: #8942f4;
 }
 
-li {
+li.nav {
     float: left;
 }
 
@@ -99,9 +99,7 @@ ul.normal {
     display: block;
     clear: both;
     list-style-position: outside;
-    border-style: solid;
-    border-color: black;
-    border-width: 4px;
+    background-color: #000000;
     
 }
 /*li {
