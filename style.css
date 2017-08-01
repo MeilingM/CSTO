@@ -72,9 +72,14 @@ img {
 table, th, td {
     border: 1px solid;
     border-color: #8942f4;
+    border-width: 5px;
     border-collapse: collapse;
     text-decoration: none;
     
+}
+
+th, td {
+    padding: 5px;
 }
 
 .table {
@@ -83,7 +88,6 @@ table, th, td {
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-size: 14pt;
     margin-top: 30px;
-    padding: 5px;
   }
 
 body { 
