@@ -87,8 +87,13 @@ th, td {
     margin-right:auto;
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-size: 14pt;
-    margin-top: 30px;
+    margin-top: 30px; 
   }
+
+.table tr:hover 
+{
+    background-color: #f2d6ff;
+}
 
 body { 
    text-align:center;
